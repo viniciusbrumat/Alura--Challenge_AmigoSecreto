@@ -17,10 +17,15 @@ Este projeto consiste em um script simples em JavaScript que permite adicionar n
 5. Clique no botão "Sortear" para escolher um amigo aleatoriamente.
 6. O nome sorteado será exibido na tela.
 
+## Como acessar
+
+Link acesso ao deploy - https://alura-challenge-amigo-secreto-one.vercel.app/ -
+
 ## Arquivos
 
 - `index.html`: Arquivo HTML que contém a estrutura da página e os elementos interativos.
 - `script.js`: Arquivo JavaScript que contém a lógica do programa.
+- `style.css`: Arquivo CSS que contém o estilo do projeto
 
 ## Tecnologias utilizadas
 
